@@ -31,8 +31,8 @@ kind: Service
 apiVersion: v1
 metadata:
     labels:
-        app: alien-palace-service
-    name: alien-palace-service
+        app: alien-palace-microservice-service
+    name: alien-palace-microservice-service
     namespace: microservices
 spec:
     selector:
