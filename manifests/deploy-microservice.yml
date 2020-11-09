@@ -59,7 +59,7 @@ spec:
                 paths:
                     -   path: /alien-palace(/|$)(.*)
                         backend:
-                            serviceName: alien-palace-service
+                            serviceName: alien-palace-microservice-service
                             servicePort: 30201
 
 
