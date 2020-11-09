@@ -37,7 +37,7 @@ metadata:
 spec:
     selector:
         source: demo
-        app: alien-palace
+        app: alien-palace-microservice
     ports:
         -   name: web
             protocol: TCP
